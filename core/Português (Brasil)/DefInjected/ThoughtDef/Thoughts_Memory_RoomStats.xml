@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>sala de jantar decente</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>Eu comi a minha refeição em uma sala de jantar decente.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>sala de jantar ligeiramente impressionante</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar ligeiramente impressionante.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>sala de jantar um pouco impressionante</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar impressionante.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>sala de jantar muito impressionante</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar muito impressionante.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>sala de jantar extremamente impressionante</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar extremamente impressionante. Eu poderia ficar lá para sempre.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>sala de jantar incrivelmente impressionante</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar incrivelmente impressionante. Eu poderia ficar lá para sempre.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>sala de jantar maravilhosamente impressionante</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Eu comi a minha refeição em uma sala de jantar  maravilhoso. Eu poderia ficar lá para sempre.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>sala de rec. decente</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>Eu me diverti em uma sala de recreação decente.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>sala de rec. ligeiramente impressionante</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>Eu me diverti em uma sala de recreação agradável.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>sala de rec. um pouco impressionante</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>Eu tive um grande momento em uma sala de recreação impressionante.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>sala de rec. muito impressionante</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>Eu tive um grande momento em uma sala de recreação muito impressionante.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>sala de rec. extremamente impressionante</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>Eu tive um grande momento em uma sala de recreação extremamente impressionante. Eu poderia ficar lá para sempre.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>sala de rec. incrivelmente impressionante</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>Eu tive um grande momento em uma sala de recreação incrivelmente impressionante. Eu poderia ficar lá para sempre.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>sala de rec. maravilhosamente impressionante</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Eu tive um grande momento em uma sala de recreação maravilhosa. Eu poderia ficar lá para sempre.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>TODO</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>TODO</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>TODO</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>TODO</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>TODO</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>TODO</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>TODO</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>TODO</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>TODO</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>TODO</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>TODO</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>TODO</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>TODO</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>TODO</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>TODO</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>TODO</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>quarto horrível</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>Meu quarto é um lugar horrível.</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>quarto decente</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>Meu quarto é muito interessante. Eu gosto disso.</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>quarto ligeiramente impressionante</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Meu quarto é ligeiramente impressionante. Eu gosto disso.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>quarto impressionante</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>Meu quarto é impressionante. Eu adoro isso!</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>quarto muito impressionante</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Meu quarto é muito impressionante. Este é o melhor lugar de todos!</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>quarto extremamente impressionante</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Meu quarto é extremamente impressionante. Este é o melhor lugar de todos!</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>quarto incrivelmente impressionante</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Meu quarto é incrivelmente impressionante. Este é o melhor lugar! de todos!</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>quarto maravilhosamente impressionante</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Meu quarto é o melhor lugar se pode imaginar. Ele é maravilhoso.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>

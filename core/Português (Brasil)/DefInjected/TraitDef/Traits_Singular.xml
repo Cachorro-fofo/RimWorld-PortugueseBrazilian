@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abrasive -->
+  <Abrasive.degreeDatas.abrasive.label>abrasivo</Abrasive.degreeDatas.abrasive.label>
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} sempre diz exatamente o que está na sua mente, especialmente se estiver incomodando {PAWN_pronoun}. Isto tende a incomodar as pessoas.</Abrasive.degreeDatas.abrasive.description>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>voz irritante</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>A voz de {PAWN_nameDef} tem uma qualidade nasal particularmente irritante, e {PAWN_pronoun} tende a falar em frases latidas e ilegíveis. Isso predispõe outras pessoas a não gostarem d{PAWN_pronoun}.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <!-- EN: ascetic -->
+  <Ascetic.degreeDatas.ascetic.label>ascético</Ascetic.degreeDatas.ascetic.label>
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} abandonou os confortos físicos e os prazeres em favor de um estilo de vida simples e puro. {PAWN_pronoun} ficará infeliz se tiver um quarto que seja muito impressionante. {PAWN_pronoun} também não gosta de comidas sofisticadas e prefere comê-las cruas. {PAWN_pronoun} nunca julga os outros por sua aparência.</Ascetic.degreeDatas.ascetic.description>
+  
+  <!-- EN: asexual -->
+  <Asexual.degreeDatas.asexual.label>assexual</Asexual.degreeDatas.asexual.label>
+  <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
+  <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} não tem atração sexual por ninguém.</Asexual.degreeDatas.asexual.description>
+  
+  <!-- EN: bisexual -->
+  <Bisexual.degreeDatas.bisexual.label>bissexual</Bisexual.degreeDatas.bisexual.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
+  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} é atraído(a) romanticamente por homens e mulheres.</Bisexual.degreeDatas.bisexual.description>
+  
+  <!-- EN: bloodlust -->
+  <Bloodlust.degreeDatas.bloodlust.label>sede de sangue</Bloodlust.degreeDatas.bloodlust.label>
+  <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} gosta de machucar as pessoas, e nunca se importa com a visão de sangue ou morte. {PAWN_pronoun} tem quatro vezes mais chances de iniciar uma briga social do que outros.</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <!-- EN: body purist -->
+  <BodyPurist.degreeDatas.body_purist.label>purista do corpo</BodyPurist.degreeDatas.body_purist.label>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} acredita que o corpo humano é limitado por um motivo. Para {PAWN_pronoun}, as partes artificiais do corpo são antiéticas e repugnantes.</BodyPurist.degreeDatas.body_purist.description>
+  
+  <!-- EN: brawler -->
+  <Brawler.degreeDatas.brawler.label>lutador</Brawler.degreeDatas.brawler.label>
+  <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} gosta de lutar de perto e pessoalmente. A precisão d{PAWN_pronoun} aumenta bastante em combates corpo a corpo, mas {PAWN_pronoun} ficará muito infeliz se for solicitado(a) para carregar uma arma de longo alcance.</Brawler.degreeDatas.brawler.description>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.degreeDatas.cannibal.label>canibal</Cannibal.degreeDatas.cannibal.label>
+  <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} aprendeu que comer carne humana é errado e horrível. Mas uma vez, há muito tempo, {PAWN_pronoun} experimentou... e {PAWN_pronoun} gostou.</Cannibal.degreeDatas.cannibal.description>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>respiração assustadora</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} respira brutalmente o tempo todo, e transpira constantemente. As pessoas acham isto assustador.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <!-- EN: misandrist -->
+  <DislikesMen.degreeDatas.misandrist.label>misandrista</DislikesMen.degreeDatas.misandrist.label>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} detesta e desconfia de todos os homens.</DislikesMen.degreeDatas.misandrist.description>
+  
+  <!-- EN: misogynist -->
+  <DislikesWomen.degreeDatas.misogynist.label>misoginia</DislikesWomen.degreeDatas.misogynist.label>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} detesta e desconfia de todas as mulheres.</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <!-- EN: fast learner -->
+  <FastLearner.degreeDatas.fast_learner.label>aprendiz rápido</FastLearner.degreeDatas.fast_learner.label>
+  <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} tem um talento especial para aprender. {PAWN_pronoun} aprende as coisas muito mais rápido do que outras.</FastLearner.degreeDatas.fast_learner.description>
+  
+  <!-- EN: gay -->
+  <Gay.degreeDatas.gay.label>gay</Gay.degreeDatas.gay.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} é romanticamente atraído(a) por pessoas do mesmo gênero que {PAWN_pronoun}.</Gay.degreeDatas.gay.description>
+  
+  <!-- EN: gourmand -->
+  <Gourmand.degreeDatas.gourmand.label>comilão</Gourmand.degreeDatas.gourmand.label>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
+  <Gourmand.degreeDatas.gourmand.description>A vida de {PAWN_nameDef} gira em torno de comida. {PAWN_pronoun} fica com fome rapidamente, e ocasionalmente vai sentir o desejo de comer vorazmente, mesmo sem estar com fome.</Gourmand.degreeDatas.gourmand.description>
+  
+  <!-- EN: great memory -->
+  <GreatMemory.degreeDatas.great_memory.label>ótima memória</GreatMemory.degreeDatas.great_memory.label>
+  <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} tem uma memória fantástica para detalhes. {PAWN_pronoun} esquecerá suas habilidades não utilizadas duas vezes mais lento do que outras pessoas.</GreatMemory.degreeDatas.great_memory.description>
+  
+  <!-- EN: greedy -->
+  <Greedy.degreeDatas.greedy.label>ganancioso</Greedy.degreeDatas.greedy.label>
+  <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} precisa de um quarto realmente impressionante. {PAWN_pronoun} recebe uma perda de humor se {PAWN_pronoun} não conseguir o que {PAWN_pronoun} quer.</Greedy.degreeDatas.greedy.description>
+  
+  <!-- EN: jealous -->
+  <Jealous.degreeDatas.jealous.label>ciumento</Jealous.degreeDatas.jealous.label>
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
+  <Jealous.degreeDatas.jealous.description>Para {PAWN_nameDef}, é degradante ter um quarto menos impressionante do que de alguém. {PAWN_pronoun} recebe uma perda de humor se qualquer colono tiver um quarto mais impressionante.</Jealous.degreeDatas.jealous.description>
+  
+  <!-- EN: kind -->
+  <Kind.degreeDatas.kind.label>gentil</Kind.degreeDatas.kind.label>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} é uma pessoa excepcionalmente agradável e generosa. {PAWN_pronoun} raramente insulta os outros e às vezes oferece palavras amáveis para alegrar o humor das pessoas ao seu redor. {PAWN_pronoun} também nunca julga as pessoas por sua aparência. A aceitação também faz com que {PAWN_objective} se conforme mais facilmente com opiniões dominantes.</Kind.degreeDatas.kind.description>
+  
+  <!-- EN: masochist -->
+  <Masochist.degreeDatas.masochist.label>masoquista</Masochist.degreeDatas.masochist.label>
+  <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
+  <Masochist.degreeDatas.masochist.description>Para {PAWN_nameDef}, há algo emocionante em se machucar. {PAWN_pronoun} não sabe o porquê, mas a dor está ligada a {PAWN_pronoun} de uma forma diferente.</Masochist.degreeDatas.masochist.description>
+  
+  <!-- EN: night owl -->
+  <NightOwl.degreeDatas.night_owl.label>coruja da noite</NightOwl.degreeDatas.night_owl.label>
+  <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} gosta de ficar acordado(a) durante a noite, e dormir durante o dia.\n\n{PAWN_pronoun} recebe um bônus de humor se acordado à noite (23h-6h), e perda de humor se acordado durante o dia (11h-18h).\n\n{PAWN_pronoun} não recebe uma penalidade de humor por estar no escuro.</NightOwl.degreeDatas.night_owl.description>
+  
+  <!-- EN: nimble -->
+  <Nimble.degreeDatas.nimble.label>ágil</Nimble.degreeDatas.nimble.label>
+  <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} tem notável inteligência cinestésica. {PAWN_pronoun} parece dançar em torno do perigo com uma graça sobrenatural.</Nimble.degreeDatas.nimble.description>
+  
+  <!-- EN: nudist -->
+  <Nudist.degreeDatas.nudist.label>nudista</Nudist.degreeDatas.nudist.label>
+  <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} gosta do sentimento de liberdade que vem de estar nu(a). {PAWN_pronoun} pode lidar com roupas, mas será mais feliz sem elas.</Nudist.degreeDatas.nudist.description>
+  
+  <!-- EN: psychopath -->
+  <Psychopath.degreeDatas.psychopath.label>psicopata</Psychopath.degreeDatas.psychopath.label>
+  <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} não tem empatia. O sofrimento dos outros não lhe incomoda apesar de tudo. {PAWN_pronoun} não se importa se os outros são esquartejados, não enterrados, presos, ou vendidos à escravidão - a menos que afete {PAWN_pronoun}. {PAWN_pronoun} também não sente nenhum impulso de humor na socialização.</Psychopath.degreeDatas.psychopath.description>
+  
+  <!-- EN: pyromaniac -->
+  <Pyromaniac.degreeDatas.pyromaniac.label>piromaníaco</Pyromaniac.degreeDatas.pyromaniac.label>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when yielding an incendiary weapon. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} ama o fogo. {PAWN_pronoun} nunca apagará incêndios e ocasionalmente começará incêndios aleatórios. {PAWN_pronoun} ficará feliz ao redor das chamas e ainda mais ao carregar uma arma incendiária.</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <!-- EN: quick sleeper -->
+  <QuickSleeper.degreeDatas.quick_sleeper.label>dorminhoco rápido</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} não precisa dormir tanto quanto uma pessoa normal. Tanto faz se {PAWN_pronoun} está dormindo na cama ou no chão, {PAWN_pronoun} estará totalmente descansado em cerca de dois terços do tempo normal.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <!-- EN: slow learner -->
+  <SlowLearner.degreeDatas.slow_learner.label>aprendiz lento</SlowLearner.degreeDatas.slow_learner.label>
+  <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} é lento(a) na aprendizagem. {PAWN_pronoun} aprende muito mais devagar que outros.</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <!-- EN: too smart -->
+  <TooSmart.degreeDatas.too_smart.label>muito esperto</TooSmart.degreeDatas.too_smart.label>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} é inteligente demais para o seu próprio bem. {PAWN_pronoun} aprende tudo muito mais rápido que outros, mas pode ser bastante excêntrico(a).</TooSmart.degreeDatas.too_smart.description>
+  
+  <!-- EN: tortured artist -->
+  <TorturedArtist.degreeDatas.tortured_artist.label>artista torturado</TorturedArtist.degreeDatas.tortured_artist.label>
+  <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} se sente alienado e incompreendido por outros seres humanos. {PAWN_pronoun} terá um debuff constante de humor, mas terá uma chance (50%) de obter uma inspiração criativa após um colapso mental.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Como um artista torturado e sofrido, [PAWN_nameIndef] está experienciando uma inspiração.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: tough -->
+  <Tough.degreeDatas.tough.label>resistente</Tough.degreeDatas.tough.label>
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} tem pele grossa, carne densa e ossos rígidos. {PAWN_pronoun} leva muito menos dano do que outras pessoas. {PAWN_pronoun} é extremamente difícil de se matar.</Tough.degreeDatas.tough.description>
+  
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>modificador corporal</Transhumanist.degreeDatas.body_modder.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} não gosta de seu fraco e limitado corpo. {PAWN_pronoun} sonha em ter um corpo aprimorado com partes artificiais.</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- EN: undergrounder -->
+  <Undergrounder.degreeDatas.undergrounder.label>subterrâneo</Undergrounder.degreeDatas.undergrounder.label>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} não precisa experimentar o ar livre ou a luz. {PAWN_pronoun} nunca se sentirá confinado e nunca terá "febre na cabine", não importa quanto tempo {PAWN_pronoun} fique dentro de algum lugar fechado... E não é incomodado pela escuridão.</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <!-- EN: wimp -->
+  <Wimp.degreeDatas.wimp.label>covarde</Wimp.degreeDatas.wimp.label>
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} é fraco(a) e covarde. Mesmo uma pequena dor imobilizará {PAWN_pronoun}.</Wimp.degreeDatas.wimp.description>
+  
+</LanguageData>
