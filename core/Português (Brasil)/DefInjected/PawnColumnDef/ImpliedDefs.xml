@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Transportar -->
+  <Trainable_Haul.headerTip>Transportar</Trainable_Haul.headerTip>
+  
+  <!-- EN: Defender -->
+  <Trainable_Obedience.headerTip>Defender</Trainable_Obedience.headerTip>
+  
+  <!-- EN: Atacar -->
+  <Trainable_Release.headerTip>Atacar</Trainable_Release.headerTip>
+  
+  <!-- EN: Resgatar -->
+  <Trainable_Rescue.headerTip>Resgatar</Trainable_Rescue.headerTip>
+  
+</LanguageData>

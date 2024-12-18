@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>beleza</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>A beleza reflete o quão visualmente agradável uma perssoa encontrou seu ambiente recentemente. Coisas bonitas como arte melhoram a beleza quando vistas, enquanto coisas feias como sujeira e superfícies ásperas de pedra a reduzem.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>conforto</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>O conforto é obtido sentando-se ou dormindo em móveis confortáveis. É adquirido enquanto está deitado na cama, sentado em uma cadeira enquanto trabalha, entre outras coisas.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>química</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>Química expressa o desejo de ingerir drogas. Quando acima de um certo nível, ela cria bom humor, mas quando abaixo de um certo nível, cria um humor cada vez pior.</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>alimentação</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>A alimentação é a quantidade de nutrição que uma criatura tem consumido recentemente. Se estiver em zero, uma criatura ficará cada vez mais desnutrida e eventualmente morrerá</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>interiores</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>Interior expressam a necessidade de estar dentro de paredes e sob um telhado. É prejudicado por passar o tempo em áreas ao ar livre ou não sob telhados. Para aumentar essa necessidade além de 50%, uma pessoa deve estar sob uma montanha, não apenas um teto normal.</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>diversão</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Recreação é a necessidade de se divertir. Repetir o mesmo tipo de atividade a torna menos divertida, portanto é necessário variedade.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>humor</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>O humor representa o quão feliz ou estressado alguém está. Se o humor ficar muito baixo, a pessoa pode sofrer um colapso mental. Dependendo do quão baixo o humor estiver, alguém que tenha um colapso mental, pode ter um colapso leve e se esconder em seu quarto por um dia, ou um colapso grave como entrar em uma onda de assassinatos.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>exteriores</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Exteriores expressam a necessidade de não estar confinado dentro de um espaço. É prejudicado por longos períodos em interiores, especialmente no subsolo. Melhora quando passa um tempo ao ar livre. Não se trata do tamanho dos cômodos, mas sim da necessidade de estar ao ar livre de vez em quando. A falta de tempo ao ar livre é um desafio significativo para as pessoas que moram em bases subterrâneas.</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>descanso</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>O descanso é quanto tempo uma pessoa dormiu recentemente. Se chegar em zero, a criatura eventualmente acabará adormecendo no local.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>tamanho do quarto</RoomSize.label>
+  
+</LanguageData>
