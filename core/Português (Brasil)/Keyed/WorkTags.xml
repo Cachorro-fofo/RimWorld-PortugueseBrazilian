@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>nenhum</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>intelectual</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>trabalho simples</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>trabalho qualificado</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>violência</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>atirar</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>cuidar</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>socializar</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>domesticar</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>arte</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>fabricar</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>cozinhar</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>combater incêndios</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>limpar</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>transportar</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>trabalho com plantas</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>minerar</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>caçar</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>construir</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>trabalho comum</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>tudo</WorkTagAllWork>
+
+</LanguageData>
