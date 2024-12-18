@@ -1,0 +1,16 @@
+atento(a)
+carente
+contemplativo(a)
+deprimido(a)
+desesperado(a)
+desolado(a)
+destruído(a)
+difícil
+distante
+exausto(a)
+quieto(a)
+silencioso(a)
+solitário(a)
+sozinho(a)
+triste
+vazio(a)

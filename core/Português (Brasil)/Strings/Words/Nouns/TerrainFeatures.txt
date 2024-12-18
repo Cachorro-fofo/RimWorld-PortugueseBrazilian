@@ -1,0 +1,13 @@
+﻿árvore
+caverna
+colina
+córrego
+cume
+deserto
+floresta
+montanha
+penhasco
+planície
+rio
+rocha
+vale

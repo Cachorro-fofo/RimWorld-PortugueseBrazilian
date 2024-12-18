@@ -1,0 +1,15 @@
+﻿aldeia
+bairro
+castelo
+cidade
+colônia
+convento
+distrito
+fazenda
+mosteiro
+município
+porto
+rancho
+santuário
+vila
+vizinhança

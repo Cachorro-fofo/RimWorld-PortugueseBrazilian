@@ -1,0 +1,12 @@
+﻿assaltante
+bandido
+bárbaro
+corsário
+criminoso
+demônio
+fera
+monstro
+pirata
+terrorista
+trapaceiro
+vampiro

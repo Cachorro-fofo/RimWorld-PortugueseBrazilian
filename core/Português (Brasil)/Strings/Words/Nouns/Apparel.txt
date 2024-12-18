@@ -1,0 +1,15 @@
+﻿armadura
+boné
+camisa
+camiseta
+capa
+cartola
+casaco
+chapéu
+coquilha
+gabardina
+gravata
+jaqueta
+sapato
+suspensório
+touca
