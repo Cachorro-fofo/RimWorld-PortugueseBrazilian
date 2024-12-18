@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: became lover -->
+  <BecameLover.label>tornou-se amante</BecameLover.label>
+  <!-- EN:
+    <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
+    <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] leading [ACCEPTER_nameFull] by the hand into bed [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] gambolling in bed with [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] deeply kissing [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in an unrealistically large bed</li>
+    <li>circumstance_phrase->between the sheets</li>
+    <li>circumstance_phrase->with few clothes in sight</li>
+    <li>circumstance_phrase->while both are drenched in sweat</li>
+    <li>desc_sentence->[PURSUER_nameDef] is snuggling up against [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is locking eyes with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is blowing air at [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is stylistically bonded with [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
+  -->
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->a [PURSUER_nameDef] e [ACCEPTER_nameDef] tornando-se amantes</li>
+    <li>tale_nounD->e [PURSUER_nameDef] e [ACCEPTER_nameDef] tornando-se amantes</li>
+    <li>image->[PURSUER_nameFull] sussurrando palavras doces no ouvido de [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] conduzindo [ACCEPTER_nameFull] pelas mãos para cama [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] se jogando na cama com [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] beijando loucamente [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>imageD->e [PURSUER_nameFull] sussurrando palavras doces no ouvido de [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>imageD->e [PURSUER_nameFull] conduzindo [ACCEPTER_nameFull] pelas mãos para cama [circumstance_group]</li>
+    <li>imageD->e [PURSUER_nameFull] se jogando na cama com [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>imageD->e [PURSUER_nameFull] beijando loucamente [ACCEPTER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->enquanto usa poucas roupas</li>
+    <li>circumstance_phrase->enquanto ambos estão molhados em suor</li>
+    <li>desc_sentence->[PURSUER_nameDef] está aconchegando-se em [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] está olhando nos olhos de [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] está estilisticamente vinculado(a) a [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] é um espelho de [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] está acariciando [ACCEPTER_nameDef] agressivamente.</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <!-- EN: bond developed -->
+  <BondedWithAnimal.label>vínculo desenvolvido</BondedWithAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] forming a deep bond with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] realizing [HUMAN_possessive] truly loves [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->while other animals look on</li>
+    <li>circumstance_phrase->while looking into [ANIMAL_nameDef]'s eyes</li>
+    <li>circumstance_phrase->with a sense of satisfaction</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snuggling up against [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
+  -->
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->ao vínculo de [HUMAN_nameDef] com [ANIMAL_nameDef]</li>
+    <li>tale_nounD->o vínculo de [HUMAN_nameDef] com [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] se vinculando com [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] formando um vínculo profundo com [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] percebendo que realmente ama [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>imageD->e [HUMAN_nameFull] se vinculando com [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>imageD->e [HUMAN_nameFull] formando um vínculo profundo com [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>imageD->e [HUMAN_nameFull] percebendo que realmente ama [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->enquanto outros animais observam</li>
+    <li>circumstance_phrase->enquanto olha nos olhos de [ANIMAL_nameDef]</li>
+    <li>circumstance_phrase->com uma sensação de satisfação</li>
+    <li>desc_sentence->[ANIMAL_nameDef] está aconchegando-se em [HUMAN_nameDef].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] está sonolento(a).</li>
+    <li>desc_sentence->[ANIMAL_nameDef] sente-se como um(a) nobre.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] está respondendo positivamente.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>rompimento</Breakup.label>
+  <!-- EN:
+    <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] standing at a distance from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] pushing [REJECTED_nameFull] out of bed [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] rejecting a hug from [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->in a moment of great sadness</li>
+    <li>circumstance_phrase->as others look away awkwardly</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sobbing uncontrollably.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is sneering and crying at the same time.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is stony-faced with shock.</li>
+    <li>desc_sentence->[DUMPER_nameDef] is stylistically separated from [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
+  -->
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->ao término de [DUMPER_nameDef] e [REJECTED_nameDef]</li>
+    <li>tale_nounD->o término de [DUMPER_nameDef] e [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] sentando ao lado [REJECTED_nameFull] prestes a ter uma conversa desagradável [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] de pé a uma distância considerável de [REJECTED_nameFull] [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] empurrando [REJECTED_nameFull] para fora da cama [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] rejeitando um abraço de [REJECTED_nameFull] [circumstance_group]</li>
+    <li>imageD->e [DUMPER_nameFull] sentando ao lado [REJECTED_nameFull] prestes a ter uma conversa desagradável [circumstance_group]</li>
+    <li>imageD->e [DUMPER_nameFull] de pé a uma distância considerável de [REJECTED_nameFull] [circumstance_group]</li>
+    <li>imageD->e [DUMPER_nameFull] empurrando [REJECTED_nameFull] para fora da cama [circumstance_group]</li>
+    <li>imageD->e [DUMPER_nameFull] rejeitando um abraço de [REJECTED_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->em um momento de grande tristeza</li>
+    <li>circumstance_phrase->enquanto outros desviam seus olhares desajeitadamente</li>
+    <li>circumstance_phrase->enquanto outros olham curiosamente</li>
+    <li>desc_sentence->[REJECTED_nameDef] está chorando incontrolavelmente.</li>
+    <li>desc_sentence->[REJECTED_nameDef] está em choque.</li>
+    <li>desc_sentence->[REJECTED_nameDef] colapsou e caiu trêmulo(a) no chão.</li>
+    <li>desc_sentence->[REJECTED_nameDef] está gesticulando com raiva.</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <!-- EN: marriage -->
+  <Marriage.label>casamento</Marriage.label>
+  <!-- EN:
+    <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] saying [SPOUSE1_possessive] marriage vows to [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] walking down the aisle with [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] holding hands with [SPOUSE2_nameFull] during a marriage ceremony [circumstance_group]</li>
+    <li>circumstance_phrase->in a dignified ceremony</li>
+    <li>circumstance_phrase->while both laugh gaily</li>
+    <li>circumstance_phrase->while others look on solemnly</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is snuggling up against [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is locking eyes with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is blowing air at [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is stylistically bonded with [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
+  -->
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->ao casamento de [SPOUSE1_nameDef] e [SPOUSE2_nameDef]</li>
+    <li>tale_nounD->o casamento de [SPOUSE1_nameDef] e [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] se casando com [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] dizendo seus votos de casamento para [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] desfilando pelo corredor com [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] segurando as mãos de [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>imageD->e [SPOUSE1_nameFull] se casando com [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>imageD->e [SPOUSE1_nameFull] dizendo seus votos de casamento para [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>imageD->e [SPOUSE1_nameFull] desfilando pelo corredor com [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>imageD->e [SPOUSE1_nameFull] segurando as mãos de [SPOUSE2_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->em uma cerimônia digna</li>
+    <li>circumstance_phrase->enquanto ambos riem alegremente</li>
+    <li>circumstance_phrase->enquanto outros observam solenemente</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] está aconchegando-se em [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] está olhando nos olhos de [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] está estilisticamente vinculado(a) a [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] é um espelho de [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] está acariciando [SPOUSE2_nameDef] agressivamente.</li>
+  </Marriage.rulePack.rulesStrings>
+  
+</LanguageData>

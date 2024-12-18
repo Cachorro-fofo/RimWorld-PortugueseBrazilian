@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caravan ambush defeated -->
+  <CaravanAmbushDefeated.label>emboscada da caravana eliminada</CaravanAmbushDefeated.label>
+  <!-- EN:
+    <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
+    <li>image->[PAWN_nameFull] organizing resistance while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group]</li>
+    <li>circumstance_phrase->bracing against the advancing horde</li>
+    <li>circumstance_phrase->circling the wagons</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s.</li>
+    <li>desc_sentence->A huge [Enemy] advances, brandishing a [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore].</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAmbushDefeated.rulePack.rulesStrings>
+    <li>tale_noun->à defesa bem sucedida da caravana de [PAWN_nameDef]</li>
+    <li>tale_noun->à luta da caravana de [PAWN_nameDef] contra uma emboscada</li>
+    <li>tale_nounD->a defesa bem sucedida da caravana de [PAWN_nameDef]</li>
+    <li>tale_nounD->a luta da caravana de [PAWN_nameDef] contra uma emboscada</li>
+    <li>image->[PAWN_nameFull] organizando a resistência [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] empurrando um(a) [Weapon] na defensiva [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rataliando os inimigos com seu(ua) [Weapon] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] com uma expressão [AdjectiveBadass] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] com uma expressão [AdjectiveAngsty] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] organizando a resistência [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] empurrando um(a) [Weapon] na defensiva [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] rataliando os inimigos com seu(ua) [Weapon] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] com uma expressão [AdjectiveBadass] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] com uma expressão [AdjectiveAngsty] [circumstance_group]</li>
+    <li>circumstance_phrase->enquanto se prepara contra a horda que avançava</li>
+    <li>circumstance_phrase->enquanto ruge a vitória</li>
+    <li>circumstance_phrase->enquanto brada seu(ua) [Weapon]</li>
+    <li>circumstance_phrase->coberto(a) de [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s avançam, bradando seus(uas) [Weapon]s.</li>
+    <li>desc_sentence->Um imenso [Enemy] avança, brandindo seu(ua) [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s avançam com um olhar [AdjectiveBadass].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s avançam com um olhar [AdjectiveAngsty].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s avançam com um brilho [Color] em seus olhos.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s avançam, cobertos(as) por [Gore].</li>
+    <li>desc_sentence->O chão está revestido em [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s fogem da área.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s fogem da área.</li>
+  </CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <!-- EN: caravan assault successful -->
+  <CaravanAssaultSuccessful.label>ataque a caravana bem sucedido</CaravanAssaultSuccessful.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
+    <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]</li>
+    <li>circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded.</li>
+    <li>desc_sentence->A [Community] burns in the distance.</li>
+    <li>desc_sentence->A [Community] smokes in the distance.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAssaultSuccessful.rulePack.rulesStrings>
+    <li>tale_noun->à caravana de [PAWN_nameDef] derrotando uma base inimiga</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] derrotando uma base inimiga</li>
+    <li>image->[PAWN_nameFull] correndo em direção ao(à) [Enemy] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] empunhando um(a) [Weapon] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] girando uma [Weapon] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] em pé, [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] correndo em direção ao(à) [Enemy] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] empunhando um(a) [Weapon] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] girando uma [Weapon] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] em pé, [circumstance_group]</li>
+    <li>circumstance_phrase->usando um visual [AdjectiveBadass]</li>
+    <li>circumstance_phrase->usando um visual [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->bradando a vitória</li>
+    <li>circumstance_phrase->coberto(a) de [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s escondem-se do ataque.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s fogem da área.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s são visivelmente feridos.</li>
+    <li>desc_sentence->Um(a) [Community] queima na distância.</li>
+    <li>desc_sentence->Um(a) [Community] fumaceia à distância.</li>
+    <li>desc_sentence->O chão está revestido de [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s fogem da área.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s fogem da área.</li>
+  </CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <!-- EN: caravan fled -->
+  <CaravanFled.label>caravana fugiu</CaravanFled.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies</li>
+    <li>image->[PAWN_nameFull] running frantically [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sprinting [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] casually strolling away [circumstance_group]</li>
+    <li>circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase</li>
+    <li>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</li>
+    <li>circumstance_phrase->from a [AdjectiveLarge] [Enemy]</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
+  -->
+  <CaravanFled.rulePack.rulesStrings>
+    <li>tale_noun->à caravana de [PAWN_nameDef] fugindo do perigo</li>
+    <li>tale_noun->à caravana de [PAWN_nameDef] escapando do perigo</li>
+    <li>tale_noun->à caravana de [PAWN_nameDef] escapando por pouco do perigo</li>
+    <li>tale_noun->à caravana de [PAWN_nameDef] sendo perseguida por inimigos</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] fugindo do perigo</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] escapando do perigo</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] escapando por pouco do perigo</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] sendo perseguida por inimigos</li>
+    <li>image->[PAWN_nameFull] correndo freneticamente [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] correndo [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] esondendo-se atrás de um(a) [TerrainFeature]</li>
+    <li>image->[PAWN_nameFull] retirando-se da luta [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] fugindo casualmente [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] correndo freneticamente [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] correndo [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] esondendo-se atrás de um(a) [TerrainFeature]</li>
+    <li>imageD->e [PAWN_nameFull] retirando-se da luta [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] fugindo casualmente [circumstance_group]</li>
+    <li>circumstance_phrase->enquanto [Quantity_adjphrase] [Enemy]s o(a) persegue</li>
+    <li>circumstance_phrase->enquanto [Quantity_adjphrase] [Enemy]s o(a) procura</li>
+    <li>circumstance_phrase->de [Quantity_adjphrase] [Enemy]s</li>
+    <li>circumstance_phrase->de [Quantity_adjphrase] inimigos [Animal]s</li>
+    <li>circumstance_phrase->de um(a) [AdjectiveLarge] [Enemy]</li>
+    <li>desc_sentence->Os perseguidores de [PAWN_nameDef] estão brandindo seus(uas) [Weapon]s.</li>
+    <li>desc_sentence->Os perseguidores de [PAWN_nameDef] estão envoltos em uma fumaça [Color].</li>
+    <li>desc_sentence->[PAWN_nameDef] está suando.</li>
+    <li>desc_sentence->[PAWN_nameDef] está ofegando.</li>
+  </CaravanFled.rulePack.rulesStrings>
+  
+  <!-- EN: caravan formed -->
+  <CaravanFormed.label>caravana formada</CaravanFormed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
+    <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
+    <li>image->[PAWN_nameFull] striding forward purposefully [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking towards the horizon [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] planning a journey [circumstance_group]</li>
+    <li>circumstance_phrase->and equipped for a fight</li>
+    <li>circumstance_phrase->and equipped for survival</li>
+    <li>circumstance_phrase->and equipped for exploration</li>
+    <li>circumstance_phrase->with an eager look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+  -->
+  <CaravanFormed.rulePack.rulesStrings>
+    <li>tale_noun->a [PAWN_nameDef] partindo para uma aventura</li>
+    <li>tale_noun->a [PAWN_nameDef] formando uma caravana</li>
+    <li>tale_nounD->e [PAWN_nameDef] partindo para uma aventura</li>
+    <li>tale_nounD->e [PAWN_nameDef] formando uma caravana</li>
+    <li>image->[PAWN_nameFull] caminhando [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] olhando o horizonte [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] conferindo os suprimentos de uma jornada [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] planejando sua jornada [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] caminhando [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] olhando o horizonte [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] conferindo os suprimentos de uma jornada [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] planejando sua jornada [circumstance_group]</li>
+    <li>circumstance_phrase->enquanto equipa-se para uma luta</li>
+    <li>circumstance_phrase->enquanto equipa-se para uma maior chance de sobrevivência</li>
+    <li>circumstance_phrase->enquanto equipa-se com ferramentas de exploração</li>
+    <li>circumstance_phrase->com um olhar ansioso em seus olhos</li>
+    <li>circumstance_phrase->com um olhar [AdjectiveAny] em seus olhos</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s observam os preparativos.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s ajudam com os preparativos.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s afastam-se da cena.</li>
+    <li>desc_sentence->Um(a) [TerrainFeature] é visível à distância.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s assistem de longe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s vagam pacificamente.</li>
+  </CaravanFormed.rulePack.rulesStrings>
+  
+  <!-- EN: caravan remote mining -->
+  <CaravanRemoteMining.label>mineração remota da caravana</CaravanRemoteMining.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->looking around warily for danger</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a makeshift shelter in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <CaravanRemoteMining.rulePack.rulesStrings>
+    <li>tale_noun->à caravana de [PAWN_nameDef] extraindo uma rica veia de [MATERIAL_label] em terra estrangeira</li>
+    <li>tale_nounD->a caravana de [PAWN_nameDef] extraindo uma rica veia de [MATERIAL_label] em terra estrangeira</li>
+    <li>image->[PAWN_nameFull] trabalhando em uma parede de [MATERIAL_label] com ferramentas de mineração [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] segurando um pedaço de [MATERIAL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] descansando contra uma parede de [MATERIAL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordenando uma equipe de escavação contra uma veia rica de [MATERIAL_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inspecionando cuidadosamente uma veia rica de [MATERIAL_label] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] trabalhando em uma parede de [MATERIAL_label] com ferramentas de mineração [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] segurando um pedaço de [MATERIAL_label] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] descansando contra uma parede de [MATERIAL_label] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] coordenando uma equipe de escavação contra uma veia rica de [MATERIAL_label] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] inspecionando cuidadosamente uma veia rica de [MATERIAL_label] [circumstance_group]</li>
+    <li>circumstance_phrase->enquianto soa muito</li>
+    <li>circumstance_phrase->com uma expressão [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->enquanto sorri orgulhosamente</li>
+    <li>circumstance_phrase->enquanto olha em volta com cautela</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s prestam assistência.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s vagam pela área.</li>
+    <li>desc_sentence->Há um abrigo improvisado em segundo plano.</li>
+    <li>desc_sentence->Um(a) [TerrainFeature] é visível à distância.</li>
+    <li>desc_sentence->[PAWN_nameDef] está suado(a) e sujo(a) do trabalho.</li>
+  </CaravanRemoteMining.rulePack.rulesStrings>
+  
+</LanguageData>
